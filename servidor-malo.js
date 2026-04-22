@@ -48,3 +48,7 @@ const server = http.createServer(async (req, res) => {
         res.end(`Ruta ${req.url} no encontrada`);
     }
 });
+
+server.listen(PORT, () => {
+    console.log(`Servidor corriendo en http://localhost:${PORT}`);
+});
