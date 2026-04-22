@@ -36,3 +36,6 @@ Se corrigieron los paréntesis y la estructura del código
 
 Resultado final
 El servidor ahora corre correctamente y todas las rutas funcionan.
+
+
+VIDEO: https://youtu.be/aM27RN0uEDs?si=IqoQjg_EWlBBjSre
